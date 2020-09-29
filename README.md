@@ -25,7 +25,7 @@ Table: User
 * **Resttemplate** is used to intracts with **UserService** microservice.
 * EmailService class is responsible for sending email to a user for transaction history.
 * Swagger for API documentation.
-http://localhost:9022/swagger-ui.html#
+http://localhost:8081/swagger-ui.html#
 
 
 
